@@ -1,0 +1,6 @@
+.card{padding:1rem;border-radius:10px;background:linear-gradient(180deg,rgba(154,152,195,135),transparent)}
+.head h3{margin:0}
+.desc{color:var(--muted);margin:.5rem 0}
+.meta{display:flex;justify-content:space-between;align-items:center}
+.tech{font-size:0.9rem;color:var(--muted)}
+.link{padding:.35rem .6rem;border-radius:9px;text-decoration:double;background:rgba(42, 13, 13, 0.03)}
